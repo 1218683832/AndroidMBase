@@ -1,0 +1,2 @@
+include ':app', ':AndroidBase'
+rootProject.name='AndroidMBase'
