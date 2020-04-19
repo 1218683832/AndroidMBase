@@ -54,10 +54,10 @@ ext {
             /**
              * MVP模式:Retrofit1+OkHttp2+Gson2.0---可选
              */
-//            retrofit1             : "com.squareup.retrofit:retrofit:1.9.0",// 配置retrofit1.9
-//            gson2                 : "com.google.code.gson:gson:2.8.0",//配置Gson2.0
-//            okHttp2               : "com.squareup.okhttp:okhttp:2.7.5",//配置OkHttp2
-//            okio                  : "com.squareup.okio:okio:1.13.0",//配置okio
+            retrofit1             : "com.squareup.retrofit:retrofit:1.9.0",// 配置retrofit1.9
+            gson2                 : "com.google.code.gson:gson:2.8.0",//配置Gson2.0
+            okHttp2               : "com.squareup.okhttp:okhttp:2.7.5",//配置OkHttp2
+            okio                  : "com.squareup.okio:okio:1.13.0",//配置okio
 
             /**
              * rx配置

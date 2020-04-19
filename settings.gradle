@@ -1,2 +1,2 @@
-include ':app', ':AndroidBase'
+include ':app', ':AndroidBase', ':mvpbase'
 rootProject.name='AndroidMBase'
